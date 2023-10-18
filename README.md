@@ -1,2 +1,2 @@
-# practise_git
+# Practice_git
 Learning git commands
